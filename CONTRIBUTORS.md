@@ -5922,6 +5922,8 @@
 
 -[@bp96](https://github.com/bp96/)
 
+-[@smorrsondev](https://github.com/smorrsondev/)
+
 -[@avilevant](https://github.com/avilevant/)
 
 -[@jcarlorosco](https://github.com/jcarlorosco/)
@@ -6061,3 +6063,23 @@
 -[@kmt5422](https://github.com/kmt5422)
 
 -[@canberker](https://github.com/CanBerker)
+
+-[@sameedahmad](https://github.com/sameedahmad)
+
+-[@damian80](https://github.com/damian80)
+
+-[@S-FK](https://github.com/S-FK)
+
+-[@Abdifatah Yassen Yosouf](https://github.com/Horumarka123)
+
+-[@ArRmitchi](https://github.com/ArRmitchi)
+
+-[@Zakariaels](https://github.com/Zakariaels)
+
+-[@Thompsonmina](https://github.com/Thompsonmina)
+
+-[@Raudcu](https://github.com/Raudcu)
+
+-[@scsubhadeep63](https://github.com/scsubhadeep63/)
+
+-[@davymero](https://github.com/davymero)
